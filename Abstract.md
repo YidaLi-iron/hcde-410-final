@@ -1,0 +1,4 @@
+Description: This study is about the process behind gentrification. We mainly focused on New York city since this city is a symbol of gentrification. 
+Purpose: The purpose of this study is to understand how gentrification relates to living costs and education level. Therefore, we can provide potential solution about how can we decrease gentrification.
+Analyzing: In this study, we analyze a dataset which separate New York to 2095 different areas. We compared the median family income changed, median rental price changed, and population with four years' college experience changed from 2000 to 2016.
+Findings: The first finding is that the rental price is large increased from 2000 to 2016. The second finding is that the population with four years' college experience has largely increased from 2000 to 2016. Based on these two findings, the study gives two solutions about how can we decrease the speed of gentrification.
